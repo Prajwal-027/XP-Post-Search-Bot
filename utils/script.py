@@ -5,13 +5,13 @@
 class script(object):
     START = """**ʜᴇʟʟᴏ {} 🤟**
    
-<b>ɪ ᴀᴍ ᴠᴊ ᴘᴏsᴛ sᴇᴀʀᴄʜ ʙᴏᴛ. ɪ ᴀᴍ ʙᴇsᴛ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ sᴇᴀʀᴄʜ ʙᴏᴛ! 
+<b>I Am XP Filter BoT. I Am Best Advance Movie Search BoT!! 
 ɪ ᴡɪʟʟ ғɪʟᴛᴇʀ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴘᴏsᴛs ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀɴᴅ sᴇɴᴅ ɪᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴄʜᴀᴛ ᴡʜᴇɴ sᴏᴍᴇᴏɴᴇ sᴇᴀʀᴄʜ ɪᴛ.</b>"""
 
     HELP = """<b>💢 ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ɪɴ ᴀ ɢʀᴏᴜᴘ
 
 🔻 ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ & ᴄʜᴀɴɴᴇʟ ᴡɪᴛʜ ᴀʟʟ ᴘᴇʀᴍɪssɪᴏɴs. 
-🔻 sᴇɴᴅ /verify ɪɴ ɢʀᴏᴜᴘ & ᴡᴀɪᴛ ғᴏʀ ɪᴛ ᴛᴏ ᴀᴄᴄᴇᴘᴛ ᴏʀ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴏᴡɴᴇʀ ᴀғᴛᴇʀ ʀᴇǫᴜᴇsᴛ @VJBots_bot.
+🔻 sᴇɴᴅ /verify ɪɴ ɢʀᴏᴜᴘ & ᴡᴀɪᴛ ғᴏʀ ɪᴛ ᴛᴏ ᴀᴄᴄᴇᴘᴛ ᴏʀ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴏᴡɴᴇʀ ᴀғᴛᴇʀ ʀᴇǫᴜᴇsᴛ @xp_prajwal.
 🔻 ᴀғᴛᴇʀ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ sᴇɴᴅ /connect ʏᴏᴜʀᴄʜᴀɴɴᴇʟɪᴅ. ( ғᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ᴄʜᴀɴɴᴇʟs ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴍᴜʟᴛɪᴘʟᴇ ᴛɪᴍᴇs )
 🔻 ᴇxᴀᴍᴘʟᴇ : /connect -100xxxxxxxxxx
 
@@ -19,16 +19,16 @@ class script(object):
 /fsub (ғsᴜʙɪᴅ)
 🔻 ᴅɪsᴄᴏɴɴᴇᴄᴛ ʙʏ /nofsub (ғsᴜʙɪᴅ)
 
-❣️ ɢᴇᴛ ᴄʜᴀɴɴᴇʟ ɪᴅ ʙʏ ᴄᴏᴍᴍᴀɴᴅ - /id
+❣️ ɢᴇᴛ ᴄʜᴀɴɴᴇʟ ɪᴅ ʙʏ ᴄᴏᴍᴍᴀɴᴅ- /id
 ❣️ ʀᴇᴍᴏᴠᴇ ᴀ ᴄʜᴀɴɴᴇʟ ᴡɪᴛʜ - /disconnect -100xxxxxxxxxxx
 ᴛʜɪs ᴡɪʟʟ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴀ ɪɴᴅᴇxᴇᴅ ᴄʜᴀɴɴᴇʟ ғʀᴏᴍ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 
 ♨️ ɢᴇᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴄʜᴀɴɴᴇʟs ʟɪsᴛ ᴡɪᴛʜ - /connections</b>"""
 
-    ABOUT = """<b>╭━━━━━━━❰ [𝙰𝙱𝙾𝚄𝚃](https://t.me/VJ_Botz) ❱━━━━━━━➣
+    ABOUT = """<b>╭━━━━━━━❰ [𝙰𝙱𝙾𝚄𝚃](https://t.me/tenxbackupchannel) ❱━━━━━━━➣
 
 ┣ ✯ Mʏ Nᴀᴍᴇ:  {}
-┣ ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/kingvj01'>VJ Bᴏᴛᴢ</a>
+┣ ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/xp_prajwal'>xp_prajwal</a>
 ┣ ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org'>Pʏᴛʜᴏɴ 3</a>
 ┣ ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://cloud.mongodb.com/'>MᴏɴɢᴏDB</a></b>"""
 
